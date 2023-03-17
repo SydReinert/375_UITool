@@ -1,0 +1,100 @@
+.inventoryOpen {
+    position: absolute;
+    top: 89px;
+    left: 165px;
+}
+
+.abilityButton {
+    width: 39px;
+    left: 6px;
+    top: 7px;
+    -unity-text-outline-color: rgba(255, 255, 255, 0);
+    background-color: rgba(0, 0, 0, 0.38);
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+.roundbuttons {
+    top: -254px;
+    left: 113px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-top-left-radius: 57px;
+    border-bottom-left-radius: 57px;
+    border-top-right-radius: 57px;
+    border-bottom-right-radius: 57px;
+    width: 52px;
+    height: 52px;
+}
+
+.menuButton {
+    width: 116px;
+    background-color: rgb(97, 177, 192);
+    border-left-color: rgba(255, 255, 255, 0);
+    border-right-color: rgba(255, 255, 255, 0);
+    border-top-color: rgba(255, 255, 255, 0);
+    border-bottom-color: rgba(255, 255, 255, 0);
+    -unity-text-outline-color: rgb(255, 255, 255);
+    text-shadow: 0 0 0 rgb(255, 255, 255);
+    top: 13px;
+    left: 9px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    -unity-font: url('project://database/Library/unity%20default%20resources?fileID=10102&guid=0000000000000000e000000000000000&type=0#Arial');
+    color: rgb(255, 255, 255);
+}
+
+.characterportrait {
+    height: 200px;
+    width: 206px;
+    background-color: rgba(0, 0, 0, 0.57);
+    border-top-left-radius: 258px;
+    border-bottom-left-radius: 258px;
+    border-top-right-radius: 258px;
+    border-bottom-right-radius: 258px;
+    left: 23px;
+    top: 45px;
+    -unity-text-outline-color: rgb(0, 190, 255);
+    -unity-text-outline-width: 0;
+    border-left-color: rgba(0, 187, 255, 0.73);
+    border-right-color: rgba(0, 187, 255, 0.73);
+    border-top-color: rgba(0, 187, 255, 0.73);
+    border-bottom-color: rgba(0, 187, 255, 0.73);
+    border-left-width: 5px;
+    border-right-width: 5px;
+    border-top-width: 5px;
+    border-bottom-width: 5px;
+}
+
+.menuButton:hover {
+    width: 116px;
+    background-color: rgb(91, 62, 171);
+    border-left-color: rgba(255, 255, 255, 0);
+    border-right-color: rgba(255, 255, 255, 0);
+    border-top-color: rgba(255, 255, 255, 0);
+    border-bottom-color: rgba(255, 255, 255, 0);
+    -unity-text-outline-color: rgb(255, 255, 255);
+    text-shadow: 0 0 0 rgb(255, 255, 255);
+    top: 13px;
+    left: 9px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    -unity-font: url('project://database/Library/unity%20default%20resources?fileID=10102&guid=0000000000000000e000000000000000&type=0#Arial');
+    color: rgb(255, 255, 255);
+}
